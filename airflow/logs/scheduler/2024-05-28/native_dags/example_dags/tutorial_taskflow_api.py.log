@@ -1,0 +1,11 @@
+[2024-05-28T19:58:17.258-0400] {processor.py:161} INFO - Started process (PID=13389) to work on /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-05-28T19:58:17.261-0400] {processor.py:830} INFO - Processing file /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-05-28T19:58:17.266-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:17.264-0400] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-05-28T19:58:17.412-0400] {processor.py:840} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-05-28T19:58:19.290-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:19.286-0400] {override.py:1829} INFO - Created Permission View: can edit on DAG:tutorial_taskflow_api
+[2024-05-28T19:58:19.311-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:19.308-0400] {override.py:1829} INFO - Created Permission View: can delete on DAG:tutorial_taskflow_api
+[2024-05-28T19:58:19.329-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:19.327-0400] {override.py:1829} INFO - Created Permission View: can read on DAG:tutorial_taskflow_api
+[2024-05-28T19:58:19.333-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:19.331-0400] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-28T19:58:19.349-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:19.347-0400] {dag.py:3118} INFO - Creating ORM DAG for tutorial_taskflow_api
+[2024-05-28T19:58:19.352-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:19.351-0400] {dag.py:3954} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-05-28T19:58:19.391-0400] {processor.py:183} INFO - Processing /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 2.157 seconds

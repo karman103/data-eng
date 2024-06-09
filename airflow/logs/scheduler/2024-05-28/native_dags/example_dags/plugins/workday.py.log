@@ -1,0 +1,6 @@
+[2024-05-28T19:58:11.207-0400] {processor.py:161} INFO - Started process (PID=13361) to work on /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-28T19:58:11.209-0400] {processor.py:830} INFO - Processing file /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-05-28T19:58:11.214-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:11.212-0400] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-28T19:58:11.247-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:11.246-0400] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-05-28T19:58:11.249-0400] {processor.py:842} WARNING - No viable dags retrieved from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-28T19:58:11.262-0400] {processor.py:183} INFO - Processing /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.076 seconds

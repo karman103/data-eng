@@ -1,0 +1,11 @@
+[2024-05-28T19:58:27.309-0400] {processor.py:161} INFO - Started process (PID=13432) to work on /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-28T19:58:27.312-0400] {processor.py:830} INFO - Processing file /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-05-28T19:58:27.317-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:27.315-0400] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-28T19:58:27.480-0400] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-05-28T19:58:29.196-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:29.193-0400] {override.py:1829} INFO - Created Permission View: can edit on DAG:tutorial
+[2024-05-28T19:58:29.218-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:29.215-0400] {override.py:1829} INFO - Created Permission View: can delete on DAG:tutorial
+[2024-05-28T19:58:29.245-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:29.242-0400] {override.py:1829} INFO - Created Permission View: can read on DAG:tutorial
+[2024-05-28T19:58:29.249-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:29.247-0400] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-28T19:58:29.266-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:29.264-0400] {dag.py:3118} INFO - Creating ORM DAG for tutorial
+[2024-05-28T19:58:29.289-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:29.288-0400] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2024-05-27 00:00:00+00:00, run_after=2024-05-28 00:00:00+00:00
+[2024-05-28T19:58:29.321-0400] {processor.py:183} INFO - Processing /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 2.037 seconds

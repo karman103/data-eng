@@ -1,0 +1,11 @@
+[2024-05-28T19:59:53.098-0400] {processor.py:161} INFO - Started process (PID=13797) to work on /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-05-28T19:59:53.101-0400] {processor.py:830} INFO - Processing file /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-05-28T19:59:53.105-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:53.103-0400] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-05-28T19:59:54.405-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-05-28T19:59:55.743-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:55.741-0400] {override.py:1829} INFO - Created Permission View: can edit on DAG:example_dag_decorator
+[2024-05-28T19:59:55.762-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:55.760-0400] {override.py:1829} INFO - Created Permission View: can delete on DAG:example_dag_decorator
+[2024-05-28T19:59:55.779-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:55.777-0400] {override.py:1829} INFO - Created Permission View: can read on DAG:example_dag_decorator
+[2024-05-28T19:59:55.782-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:55.781-0400] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-28T19:59:55.795-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:55.792-0400] {dag.py:3118} INFO - Creating ORM DAG for example_dag_decorator
+[2024-05-28T19:59:55.798-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:55.797-0400] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-05-28T19:59:55.832-0400] {processor.py:183} INFO - Processing /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 2.754 seconds

@@ -1,0 +1,12 @@
+[2024-05-28T19:59:15.591-0400] {processor.py:161} INFO - Started process (PID=13636) to work on /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2024-05-28T19:59:15.598-0400] {processor.py:830} INFO - Processing file /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-05-28T19:59:15.606-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:15.603-0400] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2024-05-28T19:59:15.769-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:15.767-0400] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-05-28T19:59:15.770-0400] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2024-05-28T19:59:17.629-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:17.626-0400] {override.py:1829} INFO - Created Permission View: can edit on DAG:example_python_operator
+[2024-05-28T19:59:17.647-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:17.645-0400] {override.py:1829} INFO - Created Permission View: can delete on DAG:example_python_operator
+[2024-05-28T19:59:17.665-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:17.662-0400] {override.py:1829} INFO - Created Permission View: can read on DAG:example_python_operator
+[2024-05-28T19:59:17.668-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:17.666-0400] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-28T19:59:17.682-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:17.680-0400] {dag.py:3118} INFO - Creating ORM DAG for example_python_operator
+[2024-05-28T19:59:17.686-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:17.684-0400] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-05-28T19:59:17.723-0400] {processor.py:183} INFO - Processing /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 2.160 seconds

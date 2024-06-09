@@ -1,0 +1,11 @@
+[2024-05-28T19:59:35.657-0400] {processor.py:161} INFO - Started process (PID=13723) to work on /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2024-05-28T19:59:35.659-0400] {processor.py:830} INFO - Processing file /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-05-28T19:59:35.664-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:35.662-0400] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2024-05-28T19:59:35.692-0400] {processor.py:840} INFO - DAG(s) 'latest_only' retrieved from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2024-05-28T19:59:37.451-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:37.449-0400] {override.py:1829} INFO - Created Permission View: can edit on DAG:latest_only
+[2024-05-28T19:59:37.502-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:37.500-0400] {override.py:1829} INFO - Created Permission View: can delete on DAG:latest_only
+[2024-05-28T19:59:37.523-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:37.521-0400] {override.py:1829} INFO - Created Permission View: can read on DAG:latest_only
+[2024-05-28T19:59:37.526-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:37.524-0400] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-28T19:59:37.543-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:37.541-0400] {dag.py:3118} INFO - Creating ORM DAG for latest_only
+[2024-05-28T19:59:37.564-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:37.563-0400] {dag.py:3954} INFO - Setting next_dagrun for latest_only to 2024-05-28 16:00:00+00:00, run_after=2024-05-28 20:00:00+00:00
+[2024-05-28T19:59:37.747-0400] {processor.py:183} INFO - Processing /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 2.110 seconds

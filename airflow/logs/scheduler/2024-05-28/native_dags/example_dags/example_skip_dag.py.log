@@ -1,0 +1,11 @@
+[2024-05-28T19:58:54.181-0400] {processor.py:161} INFO - Started process (PID=13546) to work on /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-28T19:58:54.184-0400] {processor.py:830} INFO - Processing file /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-05-28T19:58:54.191-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:54.188-0400] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-28T19:58:54.227-0400] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-28T19:58:55.751-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:55.749-0400] {override.py:1829} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2024-05-28T19:58:55.771-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:55.769-0400] {override.py:1829} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2024-05-28T19:58:55.788-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:55.786-0400] {override.py:1829} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2024-05-28T19:58:55.791-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:55.790-0400] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-28T19:58:55.805-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:55.803-0400] {dag.py:3118} INFO - Creating ORM DAG for example_skip_dag
+[2024-05-28T19:58:55.825-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:55.824-0400] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2024-05-27 00:00:00+00:00, run_after=2024-05-28 00:00:00+00:00
+[2024-05-28T19:58:55.856-0400] {processor.py:183} INFO - Processing /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 1.694 seconds

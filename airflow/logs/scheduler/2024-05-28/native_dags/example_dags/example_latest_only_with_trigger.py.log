@@ -1,0 +1,11 @@
+[2024-05-28T19:59:33.060-0400] {processor.py:161} INFO - Started process (PID=13712) to work on /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-05-28T19:59:33.063-0400] {processor.py:830} INFO - Processing file /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2024-05-28T19:59:33.067-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:33.065-0400] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-05-28T19:59:33.099-0400] {processor.py:840} INFO - DAG(s) 'latest_only_with_trigger' retrieved from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-05-28T19:59:34.325-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:34.322-0400] {override.py:1829} INFO - Created Permission View: can edit on DAG:latest_only_with_trigger
+[2024-05-28T19:59:34.346-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:34.344-0400] {override.py:1829} INFO - Created Permission View: can delete on DAG:latest_only_with_trigger
+[2024-05-28T19:59:34.362-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:34.360-0400] {override.py:1829} INFO - Created Permission View: can read on DAG:latest_only_with_trigger
+[2024-05-28T19:59:34.364-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:34.363-0400] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-28T19:59:34.377-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:34.375-0400] {dag.py:3118} INFO - Creating ORM DAG for latest_only_with_trigger
+[2024-05-28T19:59:34.395-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:34.394-0400] {dag.py:3954} INFO - Setting next_dagrun for latest_only_with_trigger to 2024-05-28 16:00:00+00:00, run_after=2024-05-28 20:00:00+00:00
+[2024-05-28T19:59:34.537-0400] {processor.py:183} INFO - Processing /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 1.495 seconds

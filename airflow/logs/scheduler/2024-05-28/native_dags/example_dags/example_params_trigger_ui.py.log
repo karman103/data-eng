@@ -1,0 +1,11 @@
+[2024-05-28T19:59:26.725-0400] {processor.py:161} INFO - Started process (PID=13684) to work on /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-05-28T19:59:26.728-0400] {processor.py:830} INFO - Processing file /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-05-28T19:59:26.732-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:26.730-0400] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-05-28T19:59:26.776-0400] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-05-28T19:59:28.057-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:28.054-0400] {override.py:1829} INFO - Created Permission View: can edit on DAG:example_params_trigger_ui
+[2024-05-28T19:59:28.081-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:28.079-0400] {override.py:1829} INFO - Created Permission View: can delete on DAG:example_params_trigger_ui
+[2024-05-28T19:59:28.097-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:28.095-0400] {override.py:1829} INFO - Created Permission View: can read on DAG:example_params_trigger_ui
+[2024-05-28T19:59:28.100-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:28.099-0400] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-28T19:59:28.115-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:28.113-0400] {dag.py:3118} INFO - Creating ORM DAG for example_params_trigger_ui
+[2024-05-28T19:59:28.119-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:28.117-0400] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-05-28T19:59:28.156-0400] {processor.py:183} INFO - Processing /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 1.449 seconds

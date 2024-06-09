@@ -1,0 +1,11 @@
+[2024-05-28T19:58:41.264-0400] {processor.py:161} INFO - Started process (PID=13491) to work on /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-05-28T19:58:41.266-0400] {processor.py:830} INFO - Processing file /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-05-28T19:58:41.271-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:41.269-0400] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-05-28T19:58:41.348-0400] {processor.py:840} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-05-28T19:58:42.498-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:42.495-0400] {override.py:1829} INFO - Created Permission View: can edit on DAG:example_time_delta_sensor_async
+[2024-05-28T19:58:42.516-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:42.514-0400] {override.py:1829} INFO - Created Permission View: can delete on DAG:example_time_delta_sensor_async
+[2024-05-28T19:58:42.532-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:42.530-0400] {override.py:1829} INFO - Created Permission View: can read on DAG:example_time_delta_sensor_async
+[2024-05-28T19:58:42.535-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:42.534-0400] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-28T19:58:42.547-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:42.546-0400] {dag.py:3118} INFO - Creating ORM DAG for example_time_delta_sensor_async
+[2024-05-28T19:58:42.551-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:58:42.549-0400] {dag.py:3954} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-05-28T19:58:42.588-0400] {processor.py:183} INFO - Processing /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 1.344 seconds

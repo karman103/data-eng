@@ -1,0 +1,11 @@
+[2024-05-28T19:59:24.195-0400] {processor.py:161} INFO - Started process (PID=13673) to work on /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-05-28T19:59:24.197-0400] {processor.py:830} INFO - Processing file /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2024-05-28T19:59:24.201-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:24.199-0400] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-05-28T19:59:24.254-0400] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-05-28T19:59:25.563-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:25.560-0400] {override.py:1829} INFO - Created Permission View: can edit on DAG:example_params_ui_tutorial
+[2024-05-28T19:59:25.583-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:25.581-0400] {override.py:1829} INFO - Created Permission View: can delete on DAG:example_params_ui_tutorial
+[2024-05-28T19:59:25.604-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:25.602-0400] {override.py:1829} INFO - Created Permission View: can read on DAG:example_params_ui_tutorial
+[2024-05-28T19:59:25.607-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:25.605-0400] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-28T19:59:25.620-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:25.618-0400] {dag.py:3118} INFO - Creating ORM DAG for example_params_ui_tutorial
+[2024-05-28T19:59:25.623-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:25.622-0400] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2024-05-28T19:59:25.659-0400] {processor.py:183} INFO - Processing /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 1.483 seconds

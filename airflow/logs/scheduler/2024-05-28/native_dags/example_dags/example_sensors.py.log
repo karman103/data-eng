@@ -1,0 +1,11 @@
+[2024-05-28T19:59:09.525-0400] {processor.py:161} INFO - Started process (PID=13611) to work on /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2024-05-28T19:59:09.529-0400] {processor.py:830} INFO - Processing file /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-05-28T19:59:09.533-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:09.532-0400] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2024-05-28T19:59:09.569-0400] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2024-05-28T19:59:11.394-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:11.390-0400] {override.py:1829} INFO - Created Permission View: can edit on DAG:example_sensors
+[2024-05-28T19:59:11.415-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:11.413-0400] {override.py:1829} INFO - Created Permission View: can delete on DAG:example_sensors
+[2024-05-28T19:59:11.449-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:11.447-0400] {override.py:1829} INFO - Created Permission View: can read on DAG:example_sensors
+[2024-05-28T19:59:11.451-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:11.450-0400] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-28T19:59:11.472-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:11.470-0400] {dag.py:3118} INFO - Creating ORM DAG for example_sensors
+[2024-05-28T19:59:11.476-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:11.474-0400] {dag.py:3954} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-05-28T19:59:11.517-0400] {processor.py:183} INFO - Processing /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 2.012 seconds

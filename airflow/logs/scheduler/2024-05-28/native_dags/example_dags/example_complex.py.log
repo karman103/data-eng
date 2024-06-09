@@ -1,0 +1,11 @@
+[2024-05-28T19:59:56.957-0400] {processor.py:161} INFO - Started process (PID=13813) to work on /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-05-28T19:59:56.959-0400] {processor.py:830} INFO - Processing file /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-05-28T19:59:56.964-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:56.962-0400] {dagbag.py:545} INFO - Filling up the DagBag from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-05-28T19:59:56.994-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-05-28T19:59:58.146-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:58.144-0400] {override.py:1829} INFO - Created Permission View: can edit on DAG:example_complex
+[2024-05-28T19:59:58.166-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:58.164-0400] {override.py:1829} INFO - Created Permission View: can delete on DAG:example_complex
+[2024-05-28T19:59:58.183-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:58.181-0400] {override.py:1829} INFO - Created Permission View: can read on DAG:example_complex
+[2024-05-28T19:59:58.186-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:58.185-0400] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-28T19:59:58.200-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:58.198-0400] {dag.py:3118} INFO - Creating ORM DAG for example_complex
+[2024-05-28T19:59:58.204-0400] {logging_mixin.py:188} INFO - [2024-05-28T19:59:58.202-0400] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-05-28T19:59:58.336-0400] {processor.py:183} INFO - Processing /mnt/c/Users/16473/projects/Dataeng-workshop-dsc/airflow-env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 1.400 seconds
